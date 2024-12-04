@@ -1,5 +1,4 @@
-get_aoc <- 
-    get_txt_files <- function(day, dir = "data") {
+get_aoc <- function(day, dir = "data") {
         day <- sprintf("%02d", day)  # Ensure day is two digits
         pattern <- paste0("day_", day, ".*\\.txt$")
         
