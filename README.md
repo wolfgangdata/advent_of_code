@@ -4,14 +4,4 @@ Code repository for the Advent of Code challenge, available under https://advent
 
 Mostly R scripts.
 
-
-        
-         🎄
-        🎄🎄
-       🎄🎄🎄
-      🎄🎄🎄🎄
-     🎄🎄🎄🎄🎄
-    🎄🎄🎄🎄🎄🎄
-   🎄🎄🎄🎄🎄🎄🎄
-        🎁🎁
-        🎁🎁
+🎄
